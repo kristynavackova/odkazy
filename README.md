@@ -1,4 +1,5 @@
 # Odkazy
 ## Zakladní údaje
-Autor: K. Vacková </br>
+Autor: K. Vacková
+
 Datum: 2. 10. 2023
